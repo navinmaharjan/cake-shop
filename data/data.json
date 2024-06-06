@@ -1,0 +1,65 @@
+[
+    {
+        "id" :0,
+        "cakeName": "Chocolate Delight",
+        "image": "🥮",
+        "price": "25.00",
+        "description": "A rich and moist chocolate cake topped with creamy chocolate ganache.",
+        "ingredients": "Flour, sugar, cocoa powder, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract, boiling water, chocolate ganache.",
+        "available": true
+    },
+    {
+        "id" :1,
+        "cakeName": "Vanilla Dream",
+        "image": "🍩",
+        "price": "20.00",
+        "description": "A rich and moist chocolate cake topped with creamy chocolate ganache.",
+        "ingredients": "Flour, sugar, cocoa powder, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract, boiling water, chocolate ganache.",
+        "available": true
+    },
+    {
+        "id" :2,
+        "cakeName": "Lemon Zest",
+        "image": "🍥",
+        "price": "22.00",
+        "description": "A rich and moist chocolate cake topped with creamy chocolate ganache.",
+        "ingredients": "Flour, sugar, cocoa powder, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract, boiling water, chocolate ganache.",
+        "available": true
+    },
+    {
+        "id" :3,
+        "cakeName": "Strawberry Bliss",
+        "image": "🥯",
+        "price": "22.00",
+        "description": "A rich and moist chocolate cake topped with creamy chocolate ganache.",
+        "ingredients": "Flour, sugar, cocoa powder, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract, boiling water, chocolate ganache.",
+        "available": true
+    },
+    {
+        "id" :4,
+        "cakeName": "Carrot Delight",
+        "image": "🥠",
+        "price": "24.00",
+        "description": "A rich and moist chocolate cake topped with creamy chocolate ganache.",
+        "ingredients": "Flour, sugar, cocoa powder, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract, boiling water, chocolate ganache.",
+        "available": true
+    },
+    {
+        "id" :5,
+        "cakeName": "Blueberry Bliss",
+        "image": "🍨",
+        "price": "26.00",
+        "description": "A rich and moist chocolate cake topped with creamy chocolate ganache.",
+        "ingredients": "Flour, sugar, cocoa powder, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract, boiling water, chocolate ganache.",
+        "available": true
+    },
+    {
+        "id" :5,
+        "cakeName": "Mango Tango",
+        "image": "🧁",
+        "price": "27.00",
+        "description": "A rich and moist chocolate cake topped with creamy chocolate ganache.",
+        "ingredients": "Flour, sugar, cocoa powder, baking powder, baking soda, eggs, milk, vegetable oil, vanilla extract, boiling water, chocolate ganache.",
+        "available": true
+    }
+]
