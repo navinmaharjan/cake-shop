@@ -1,6 +1,7 @@
 const fs = require("fs");
 const http = require("http");
 const url = require("url")
+const slugify = require('slugify');
 
 const replaceTemplate = (temp, cake) => {
     let output = temp.replace(/{%CAKENAME%}/g, cake.cakeName);
@@ -18,6 +19,8 @@ const templateCards = fs.readFileSync(`${__dirname}/templates/cards.html`, 'utf-
 
 const data = fs.readFileSync(`${__dirname}/data/data.json`, 'utf-8')
 const dataObj = JSON.parse(data)
+
+const slugs = dataObj.map(item => slugify(item.cakeName, {lower:true}))
 
 const server = http.createServer((req, res) => {
    
